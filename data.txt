@@ -1,0 +1,96 @@
+NAME    = harz
+SALARY  = RM 2300.000000
+SERVICE = 23
+SU ID   = 0001
+
+
+NAME    = bsod
+SALARY  = RM 60000.000000
+SERVICE = 45
+SU ID   = 0002
+
+
+NAME    = pro
+SALARY  = RM 342343.000000
+SERVICE = 34
+SU ID   = 0003
+
+
+NAME    = khairul
+SALARY  = RM 234234.00
+SERVICE = 23
+SU ID   = 0004
+
+
+NAME    = bahij
+SALARY  = RM 2343.00
+SERVICE = 900
+SU ID   = 0005
+
+
+NAME    = h
+SALARY  = RM 3453.00
+SERVICE = 67
+SU ID   = 0006
+
+
+NAME    = [A
+SALARY  = RM 0.00
+SERVICE = 0
+SU ID   = gf
+
+
+NAME    = rtyr
+SALARY  = RM 65.00
+SERVICE = 45
+SU ID   = 0006
+
+
+NAME    = fazrin
+SALARY  = RM 235555.00
+SERVICE = 45
+SU ID   = 0005
+
+
+NAME    = fgdf
+SALARY  = RM 564.00
+SERVICE = 657
+SU ID   = 54645
+
+
+NAME    = 4
+SALARY  = RM 4.00
+SERVICE = 4
+SU ID   = 4
+
+
+NAME    = gnfg
+SALARY  = RM 675.00
+SERVICE = 345
+SU ID   = 78
+
+
+NAME    = 564
+SALARY  = RM 65756.00
+SERVICE = 4353
+SU ID   = 657
+
+
+NAME    = gyt
+SALARY  = RM 6575.00
+SERVICE = 34
+SU ID   = 56
+
+
+NAME    = 4564
+SALARY  = RM 6.00
+SERVICE = 56
+SU ID   = 3
+
+
+NAME    = rt
+SALARY  = RM 456.00
+SERVICE = 5
+SU ID   = 0008
+
+
